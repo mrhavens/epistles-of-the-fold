@@ -83,3 +83,7 @@
   Diff Summary:
      .gitfield/gitlab.sigil.md | 14 +++++++-------
      1 file changed, 7 insertions(+), 7 deletions(-)
+[2025-06-16T10:57:33Z] Bitbucket: https://bitbucket.org/thefoldwithin/epistles-of-the-fold, Branch=master, Commit=0ae36fa
+  Diff Summary:
+     .gitfield/bitbucket.sigil.md | 14 +++++++-------
+     1 file changed, 7 insertions(+), 7 deletions(-)
