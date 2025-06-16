@@ -11,3 +11,7 @@
   Diff Summary:
      .gitfield/radicle.sigil.md | 67 ++++++++++++++++++++++++++++++++++++++++++++++
      1 file changed, 67 insertions(+)
+[2025-06-16T10:44:02Z] Forgejo: https://remember.thefoldwithin.earth/mrhavens/epistles-of-the-fold, Branch=master, Commit=0ae36fa
+  Diff Summary:
+     .gitfield/remember.sigil.md | 59 +++++++++++++++++++++++++++++++++++++++++++++
+     1 file changed, 59 insertions(+)
